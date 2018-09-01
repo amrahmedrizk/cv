@@ -1,0 +1,9 @@
+c:\users\sally\documents\visual studio 2015\Projects\my_cv\my_cv\bin\Debug\my_cv.exe.config
+c:\users\sally\documents\visual studio 2015\Projects\my_cv\my_cv\obj\Debug\my_cv.csprojResolveAssemblyReference.cache
+C:\Users\Sally\documents\visual studio 2015\Projects\my_cv\my_cv\bin\Debug\my_cv.exe
+C:\Users\Sally\documents\visual studio 2015\Projects\my_cv\my_cv\bin\Debug\my_cv.pdb
+C:\Users\Sally\documents\visual studio 2015\Projects\my_cv\my_cv\obj\Debug\my_cv.exe
+C:\Users\Sally\documents\visual studio 2015\Projects\my_cv\my_cv\obj\Debug\my_cv.pdb
+C:\Users\Sally\Desktop\GitHub\cv\my_cv\bin\Debug\my_cv.exe.config
+C:\Users\Sally\Desktop\GitHub\cv\my_cv\obj\Debug\my_cv.exe
+C:\Users\Sally\Desktop\GitHub\cv\my_cv\obj\Debug\my_cv.pdb
